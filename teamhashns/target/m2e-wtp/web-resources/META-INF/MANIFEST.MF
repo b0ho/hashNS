@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: HongJoon
 Build-Jdk: 12.0.2
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: ybg48
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> 1019c904bea003872362ba6a1c7cbc0fb8654b42
